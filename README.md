@@ -1,4 +1,4 @@
-# 🚀 OrangeHRM Automation Framework
+# 🚀HRM Automation Framework
 
 A Hybrid Test Automation Framework developed using Selenium WebDriver, Java, TestNG, Maven, and Page Object Model (POM) design pattern.
 
